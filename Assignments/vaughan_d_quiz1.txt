@@ -1,0 +1,26 @@
+1. What is your academic home at UK? (department, division, advisor)
+
+Department: Chemistry - Ryan Cheng
+    and staff in College of Public Health - Olga Vsevelozshkaya
+
+2. What is your area of research?
+
+ Chemistry: 3D genome structure - prediction of promoter/enhancer in chromatin contact regions
+ CPH: Multivariate analysis of child behavioral/mental health psychometric assessment data. Methods development in statistical analysis of categorical survey data.
+ Personal: Machine learning methods development in bioinformatics and NMR metabolomics
+
+3. Do you envision changing your research focus? If so, to what?
+
+I'm quite ADHD so changing my focus is a daily task! (just kidding, kinda). 
+I do have a large number interests and absolutely nothing bores me. However, my main goals will generally remain in development of methods in systems biology (or mathematical/computational bio, whatever the flavor of the month is), and pharmacology and the translation of those methods to clinical settings. I'm not so much hypothesis-driven but rather a tool-builder and software person. My research ideas tend to be smaller and more focused on solving hard computational problems or using approaches and techniques from other fields in new fields. For instance, I use a lot of ideas from bioinformatics in my work research in behavioral health assessments--the data is practically the same format as a counts matrix of RNAseq data. 
+
+4. What bioinformatics tools and what type of data are you most interested in learning about?
+
+I originally started out studying RNAseq but moved toward metabolomics because it was such an important complement, is more clinically relevant (and trivially measureable!), and corresponds more directly with biochemical reactions. 
+Additionally, I've studied in a variety of labs on heart and brain pathologies and, because of my significant study in biochemistry and physiology, I generally am comfortable working on any disease (so long as there's a good Nature Review on it!). 
+I tend to focus more on method development, especially bringing in heavy-hitting methods and algorithms from other fields. Markov models are just so ubiquitous, for example. 
+
+
+5. Briefly describe your background/training in programming and biology. What courses have you taken, work experience, programming languages you know.
+
+I had my first Python course in 2008, C/C++ in 2009, and have studied and used the languages generally frequently since then. In 2016 I started learning R and currently use it quite heavily at work. I'm a fan of Unix tools like Emacs, but shifted toward VS Code because of its tool integration. Version control with git is also important. My undergraduate degree is in chemistry and math with a physics minor and my focus was on computational chemistry and mathematical biology. Because of my study in mathematical biology, I have quite a bit of learning in biology and physiology. 
